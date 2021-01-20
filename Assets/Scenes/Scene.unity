@@ -502,6 +502,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Level
       objectReference: {fileID: 0}
+    - target: {fileID: 5811962143037409048, guid: 2974dae006d74894a9cbe0e691abd7bd, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7250638258861131682, guid: 2974dae006d74894a9cbe0e691abd7bd, type: 3}
       propertyPath: m_Name
       value: '[Bottom]'
